@@ -5,13 +5,13 @@
 
   ### Hi my name is Seongmin Lee. You can also call me Id!
   
-**  I've been doing..**
+  <br>
   
   🦁 LikeLion @ Chung-Ang University 9th as Student & 11th as Mentor 🦁
   
   🍎 Apple Developer Academy @ POSTECH 1st as Developer 🍏
   
-  📱 SOPT 32th as iOS Developer 📱
+  📱 SOPT 32nd as iOS Developer 📱
   
   <br>
   <br>
