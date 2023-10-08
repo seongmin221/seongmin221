@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
   ## INTRODUCTION
   
@@ -14,6 +14,13 @@
   📱 SOPT 32nd as iOS Developer 📱
   
   <br>
+
+  ## PERSONAL ARCHIVE
+
+  📔 [Id's Identity Project](https://ids-identity-project.tistory.com)
+
+  📖 [What Did I Learn ...](https://github.com/seongmin221/What-Did-I-Learn...)
+
   <br>
   
   ## STATUS
@@ -24,5 +31,6 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongmin221&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+  ![](https://komarev.com/ghpvc/?username=seongmin221&color=green)
 </div>
   
