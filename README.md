@@ -16,9 +16,11 @@
 
   ## PERSONAL ARCHIVE
 
-  📔 [Id's Identity Project](https://ids-identity-project.tistory.com)
+  📘 [Id's Identity Project](https://ids-identity-project.tistory.com)
 
   📖 [What Did I Learn ...](https://github.com/seongmin221/What-Did-I-Learn...)
+
+  🫵 [What do you think about this ?](https://github.com/seongmin221/What-Did-I-Learn.../discussions)
 
   <br>
   
