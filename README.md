@@ -20,7 +20,7 @@
 
   📖 [What Did I Learn ...](https://github.com/seongmin221/What-Did-I-Learn...)
 
-  🫵 [What do you think about this ?](https://github.com/seongmin221/What-Did-I-Learn.../discussions)
+  🫵 [What Do You Think About This ?](https://github.com/seongmin221/What-Did-I-Learn.../discussions)
 
   <br>
   
