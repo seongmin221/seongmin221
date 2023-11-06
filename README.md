@@ -6,11 +6,11 @@
   
   <br>
   
-  🦁 LikeLion @ Chung-Ang University 9th as Student & 11th as Mentor 🦁
+  🦁 [LikeLion @ Chung-Ang University]() 9th as Student & 11th as Mentor 🦁
   
-  🍎 Apple Developer Academy @ POSTECH 1st as Developer 🍏
+  🍎 [Apple Developer Academy](https://github.com/DeveloperAcademy-POSTECH) @ POSTECH 1st as Developer 🍏
   
-  📱 SOPT 32nd as iOS Developer 📱
+  📱 [SOPT 32nd](https://github.com/GO-SOPT-iOS-Part) as iOS Developer 📱
   
   <br>
 
