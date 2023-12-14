@@ -28,7 +28,7 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=seongmin221&theme=chalk&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
   
-  [![Seongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongmin221&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongmin221&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongmin221&count_bg=%2379C83D&title_bg=%23555555&icon=swift.svg&icon_color=%23E7E7E7&title=visits&edge_flat=true)](https://hits.seeyoufarm.com)
   
   
 
