@@ -8,7 +8,7 @@
 
   🦁 [LikeLion @ Chung-Ang University]() 9th as Student 🦁
 
-  🍎 [Apple Developer Academy](https://github.com/DeveloperAcademy-POSTECH) @ POSTECH 1st as Developer 🍏
+  🍎 [Apple Developer Academy](https://github.com/DeveloperAcademy-POSTECH) @ POSTECH 1st as Junior Learner 🍏
 
   📱 [SOPT 32nd](https://github.com/GO-SOPT-iOS-Part) as iOS Developer 📱
 
