@@ -25,6 +25,16 @@
   🫵 [What Do You Think About This ?](https://github.com/seongmin221/What-Did-I-Learn.../discussions)
 
   <br>
+
+  ## Projects
+
+  💥 Funch: 즐거운 첫 만남 도우미 [Portfolio](https://github.com/seongmin221/funch-portfolio) [Repository](https://github.com/Nexters/moyamoya-ios-app) 
+
+  🔑 KeyGo: 키워드로 회고하자 [Portfolio](https://github.com/seongmin221/keygo-portfolio) [Repository](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-Maddori.Apple)
+  
+  
+
+  <br>
   
   ## STATUS
   
