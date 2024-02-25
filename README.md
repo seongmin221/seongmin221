@@ -18,7 +18,7 @@
 
   ## PERSONAL ARCHIVE
 
-  📘 [Id's Identity Project](https://ids-identity-project.tistory.com)
+  📘 [Tistory - Id's Identity Project](https://ids-identity-project.tistory.com) -> [Velog - Id_Entity](https://velog.io/@id_entity/posts)
 
   📖 [What Did I Learn ...](https://github.com/seongmin221/What-Did-I-Learn...)
 
