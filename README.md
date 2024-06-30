@@ -3,8 +3,16 @@
   ## INTRODUCTION
 
   ### Hi my name is Seongmin Lee. You can also call me Id!
+
+  <br>
+
+  ## Career
+
+  🍀 (2024.07.01 ~ Now) Team Naver 🍀
   
   <br>
+
+  ## Activities
 
   🍎 [Apple Developer Academy](https://github.com/DeveloperAcademy-POSTECH) @ POSTECH 1st as Junior Learner 🍏
 
