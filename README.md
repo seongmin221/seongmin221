@@ -8,7 +8,7 @@
 
   ## Career
 
-  🍀 (2024.07.01 ~ Now) Team Naver 🍀
+  🍀 (2024.07.01 ~ Now) Team Naver: Mobile App Platform Tech ( Android ) 🍀
   
   <br>
 
@@ -35,6 +35,8 @@
   ## Projects
 
   💥 Funch: 즐거운 첫 만남 도우미 [Repository](https://github.com/Nexters/moyamoya-ios-app) 
+
+  🍞 건빵: 건강한 빵 찾기 [Repository](https://github.com/GEON-PPANG/GEON-PPANG-iOS)
 
   🔑 KeyGo: 키워드로 회고하자 [Repository](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-Maddori.Apple)
   
