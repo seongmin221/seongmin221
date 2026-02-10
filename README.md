@@ -8,7 +8,7 @@
 
   ## Career
 
-  🍀 (2024.07.01 ~ Now) Team Naver: Mobile App Platform Tech ( Android ) 🍀
+  🍀 (2024.07.01 ~ Now) Team Naver: NaverTalk Android native devloper 🍀
   
   <br>
 
@@ -39,16 +39,3 @@
   🍞 건빵: 건강한 빵 찾기 [Repository](https://github.com/GEON-PPANG/GEON-PPANG-iOS)
 
   🔑 KeyGo: 키워드로 회고하자 [Repository](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-Maddori.Apple)
-  
-  
-
-  <br>
-  
-  ## STATUS
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=seongmin221&theme=chalk&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongmin221&count_bg=%2379C83D&title_bg=%23555555&icon=swift.svg&icon_color=%23E7E7E7&title=visits&edge_flat=true)](https://hits.seeyoufarm.com)
-  
-</div>
-  
